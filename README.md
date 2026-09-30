@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Harshit
 
-<!--
-**HarshitVerma47/HarshitVerma47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm currently pursuing **B.Tech in Computer Science & Engineering** and building my skills in programming, web development, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+* ☕ Java
+* 🌐 HTML & CSS
+* 🐙 Git & GitHub
+* 💡 Data Structures & Algorithms
+* 🖥️ Web Development
+
+### 🔨 Projects
+
+I enjoy creating projects to improve my programming and development skills and turn ideas into working applications.
+
+### 🎯 Goal
+
+To become a skilled software developer and continuously learn new technologies.
+
+**“Code. Learn. Build. Repeat.. 🚀”**
